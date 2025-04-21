@@ -64,8 +64,7 @@ $ python main.py
 
 ## ✍️ Author
 
-- **L7N**  
-  - [Telegram](https://t.me/PyL7N)  
-  - [GitHub](https://github.com/is-L7N)
+- [![Telegram](https://img.shields.io/badge/Telegram-PyL7N-0088cc?style=flat-square&logo=telegram)](https://t.me/PyL7N)
+- [![GitHub](https://img.shields.io/badge/GitHub-is--L7N-181717?style=flat-square&logo=github)](https://github.com/is-L7N)
 
 ---
